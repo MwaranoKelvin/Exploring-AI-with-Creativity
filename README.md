@@ -1,6 +1,6 @@
 
 
-##                  ==== PHAASE 1 ====
+##                  ==== PHASE 1 ====
 # 1. 🚀 Business Concept
 
 **Business Name:** NeuroBrand  
@@ -27,7 +27,7 @@ At **NeuroBrand**, we believe the future of branding isn’t just about being se
  ![Business Logo: NeuroBrand Solutions](."C:\Users\USER\Desktop\PLP ACADEMY\PLPAssignments\AI\WEEK1\businessLogo.png")
 
 
-##                  ==== PHAASE 2 ====
+##                  ==== PHASE 2 ====
 
 1. 🚀 The Future of Branding is Here
 
@@ -71,5 +71,6 @@ Caption:
 "Likes are good. Loyalty is better.
 Our AI-driven branding services create content that sparks engagement and builds lasting connections. 💖"
 👉 Click ‘Learn More’ to transform your audience into a community.
+
 
 
